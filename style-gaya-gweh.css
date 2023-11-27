@@ -1,0 +1,21 @@
+p {
+    background-color: greenyellow;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.kontener {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(143, 129,221);
+    border: 10px solid;
+    border-radius: 15px;
+    align-items: 100px;
+}
+
+.kontener img{
+    width: 100px;
+}
